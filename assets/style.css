@@ -10,8 +10,8 @@
 }
 body{
     width: 100vw;
-    background-image: linear-gradient(to top, #000000, #1b1617, #2f2426, #443435, #5b4445, #5b4445, #5b4445, #5b4445, #443435, #2f2426, #1b1617, #000000);
     min-height: 100vh;
+    background-image: linear-gradient(to top, #000000, #1b1617, #2f2426, #443435, #5b4445, #5b4445, #5b4445, #5b4445, #443435, #2f2426, #1b1617, #000000);
     background-attachment: fixed;
     display: flex;
     align-items: center;
@@ -23,7 +23,7 @@ body{
     background: rgba( 255, 255, 255, 0.09);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    border-radius: 16px;
+    border-radius: 30px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     border: 1px solid rgba(255, 255, 255, 0.3);
 }
