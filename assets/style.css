@@ -18,8 +18,8 @@ body{
     justify-content: center;
 }
 .container{
-    width: calc(1800px - 70);
-    height: 800px;
+    max-width: 1200px;
+    min-height: calc(100vh - 70px);
     background: rgba( 255, 255, 255, 0.09);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
